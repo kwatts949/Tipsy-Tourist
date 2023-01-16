@@ -2,10 +2,10 @@
 <div>
 
 <h5 align="center">
-<a href='https://github.com/HOOLAHAN/tipsy-tourist/blob/main/README.md#Spec'> Tech </a> <span> · </span>
-<a href='https://github.com/HOOLAHAN/tipsy-tourist/blob/main/README.md#Spec'> Spec </a> <span> · </span>
-<a href='https://github.com/HOOLAHAN/tipsy-tourist/blob/main/README.md#Installation'> Installation </a><span> · </span>
-<a href='https://github.com/HOOLAHAN/tipsy-tourist/blob/main/README.md#Running-locally'> Running locally</a>
+<a href='https://github.com/kwatts949/tipsy-tourist/blob/main/README.md#Spec'> Tech </a> <span> · </span>
+<a href='https://github.com/kwatts949/tipsy-tourist/blob/main/README.md#Spec'> Spec </a> <span> · </span>
+<a href='https://github.com/kwatts949/tipsy-tourist/blob/main/README.md#Installation'> Installation </a><span> · </span>
+<a href='https://github.com/kwatts949/tipsy-tourist/blob/main/README.md#Running-locally'> Running locally</a>
 <h5>
 </div>
 
@@ -44,7 +44,7 @@ module.exports = apiKey
 
 ## Frontend
 
-[Clone this repo](https://github.com/HOOLAHAN/tipsy-tourist)
+[Clone this repo](https://github.com/kwatts949/tipsy-tourist)
 
 In terminal (Mac), run:
 
