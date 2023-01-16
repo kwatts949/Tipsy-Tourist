@@ -22,6 +22,9 @@ Makers final engineering project created by Iain Hoolahan, Kay Watts, Tim Buller
 # Spec
 
 An app to plot a pub crawl whilst taking in the sights along the way!
+<div align='center'>
+<img src="/public/images/Tipsy%20Tourist%20Screenshot.png" width="100%" height="100%" />
+</div>
 
 # Installation
 
